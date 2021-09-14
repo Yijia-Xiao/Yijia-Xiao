@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on modeling protein sequences.
+- 👯 I’m looking to collaborate on bioinformatics & NLP research.
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao)
+
+[![Yijia-Xiao's github stats](https://github-readme-stats.vercel.app/api?username=Yijia-Xiao&show_icons=true)](https://github.com/Yijia-Xiao/)
