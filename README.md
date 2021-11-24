@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on modeling protein sequences.
-- 👯 I’m looking to collaborate on bioinformatics & NLP research.
+- 👯 I’m looking to collaborate on computational biology & NLP research.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao)
 
