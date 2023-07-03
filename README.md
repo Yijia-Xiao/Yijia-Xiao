@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao) -->
 
-[![Yijia-Xiao's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=Yijia-Xiao&show_icons=true&include_all_commits=true)](https://github.com/Yijia-Xiao/)
+<!-- [![Yijia-Xiao's github stats](https://github-readme-stats.vercel.app/api?theme=radical&username=Yijia-Xiao&show_icons=true&include_all_commits=true)](https://github.com/Yijia-Xiao/) -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao) -->
