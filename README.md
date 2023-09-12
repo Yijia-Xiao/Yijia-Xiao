@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Currently working on modeling biological macromolecules.
-- 👯 Feel free to reach me for cooperation on comp-bio and NLP research.
+- 🔭 Currently working on modeling biological macromolecules/LLMs.
+- 👯 Open to cooperation on comp-bio and NLP research.
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yijia-Xiao&column=7)](https://github.com/Yijia-Xiao) -->
 
